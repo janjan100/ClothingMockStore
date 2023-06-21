@@ -1,1 +1,2 @@
 # ClothingMockStore
+HTML/CSS, Boostrap
